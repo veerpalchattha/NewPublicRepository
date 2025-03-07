@@ -1,3 +1,3 @@
 # NewPublicRepository
 My public repository
-Author - Veerpal CHATTHA
+Author - Veerpal Kaur CHATTHA
